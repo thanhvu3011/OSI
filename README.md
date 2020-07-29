@@ -69,7 +69,10 @@ Trong LAN, IEEE chia tầng này thành 2 tầng phụ
   - Kiểm tra lỗi của các khung dữ liệu, quản lý kết nối giữa hai thiết bị truyền thông với nhau trên cùng một mạng con, điều khiển luồng và báo nhận việc truyền khung.
   - GT: 802.1 OSI Model 802.2 Logical Link Control
 
-## Lớp Mạng
+## Lớp Mạng 
+
+![alt](https://vsolutions.vn/wp-content/uploads/2015/12/Network-layer-trong-mo-hinh-OSI-2.jpg)
+
 1. Nhiệm vụ:
 - Kết nối các mạng với nhau
 - Xác định các địa chỉ mạng để quyết định việc chuyển gói tin
